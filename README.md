@@ -1,4 +1,11 @@
-### Hi there 👋
+# Eleas - Back-End Developer & CS Student (Università di Genova)
+
+🚀 Driven back-end developer with a keen interest in AI. Currently in my final year of Computer Science at Università di Genova, Italy, while gaining professional experience as a full-time developer. Proficient in Java, Node.js, and PostgreSQL, with additional experience in React, Python, and C#.
+
+🧠 Beyond my core development work, I'm actively exploring the realms of AI and Web Design and Styling.
+
+🌱 I'm constantly seeking opportunities to learn and grow, and I'm enthusiastic about collaborating on open-source projects! Let's connect and create something amazing together. 💻✨
+
 
 <!--
 **eliasss01/eliasss01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
