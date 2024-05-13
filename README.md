@@ -4,7 +4,7 @@
 
 🧠 Beyond my core development work, I'm actively exploring the realms of AI and Web Design and Styling.
 
-🌱 I'm constantly seeking opportunities to learn and grow, and I'm enthusiastic about collaborating on open-source projects! Let's connect and create something amazing together. 💻✨
+🌱 I'm constantly seeking opportunities to learn and grow, and I'm enthusiastic about collaborating on open-source projects! 💻✨
 
 # 📦 Toolbox
 
