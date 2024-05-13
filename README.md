@@ -12,6 +12,11 @@ Work Experience: `Java`, `Quarkus`, `SpringBoot`, `PostgreSQL`, `Docker`, `JDBC`
 
 University Courses and Personal Projects: `C`, `C++`, `C#`, `Python`, `PHP`, `React`
 
+# 📫 Contacts
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin)]([https://www.linkedin.com/in/your-profile-url](https://www.linkedin.com/in/eleas-bouras-96522119a/))
+
+
 
 <!--
 **eliasss01/eliasss01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
