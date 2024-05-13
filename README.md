@@ -8,8 +8,6 @@
 
 # 📦 Toolbox
 
----
-
 Work Experience: `Java`, `Quarkus`, `SpringBoot`, `PostgreSQL`, `Docker`, `JDBC`, `Git`, `Kubernetes`, `AWS`, `Node`
 
 University Courses and Personal Projects: `C`, `C++`, `C#`, `Python`, `PHP`, `React`
