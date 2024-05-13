@@ -14,7 +14,7 @@ University Courses and Personal Projects: `C`, `C++`, `C#`, `Python`, `PHP`, `Re
 
 # 📫 Contacts
 
-[LinkedIn](https://www.linkedin.com/in/eleas-bouras-96522119a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/eleas-bouras-96522119a/)
 
 
 
