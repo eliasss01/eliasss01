@@ -2,7 +2,7 @@
 
 🚀 Driven back-end developer with an interest in AI. Currently in my final year of Computer Science at Università di Genova, Italy, while gaining professional experience as a full-time developer
 
-🧠 Beyond my core development work, I'm actively exploring the realms of AI and Web Design and Styling.
+🧠 Beyond my core development work, I'm actively exploring the realms of AI and Web Design.
 
 🌱 I'm constantly seeking opportunities to learn and grow, and I'm enthusiastic about collaborating on open-source projects! 💻✨
 
