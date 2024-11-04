@@ -21,7 +21,8 @@
 
 # 📫 Contacts
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eleas-bouras-96522119a/) [![Website](https://img.shields.io/badge/Website-0DCA73?style=for-the-badge&logo=appveyor&logoColor=white)](https://eliasbouras.it)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eleas-bouras-96522119a/) [![Website](https://img.shields.io/badge/Website-0DCA73?style=for-the-badge&logo=world&logoColor=white)](https://eliasbouras.it)
+
 
 
 
