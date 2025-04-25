@@ -1,6 +1,6 @@
-<h1 align="center">👾 Eleas - Back-End Developer & CS Student 👾</h1>
+<h1 align="center">👾 Eleas - Back-End Developer 👾</h1>
 
-🚀 Driven back-end developer with an interest in AI. Currently in my final year of Computer Science at Università di Genova, Italy, while gaining professional experience as a full-time developer
+🚀 Driven back-end developer with an interest in AI. Recently graduated in Computer Science from Università di Genova, Italy, while gaining professional experience as a full-time developer
 
 🧠 Beyond my core development work, I'm actively exploring the realms of AI and Web Design.
 
